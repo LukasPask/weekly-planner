@@ -15,7 +15,7 @@ const taskSchema = new Schema(
       type: String,
       required: true,
     },
-    do_before: {
+    time: {
       type: String,
       required: true,
     },
